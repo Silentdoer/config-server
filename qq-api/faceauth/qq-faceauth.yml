@@ -1,1 +1,3 @@
-faceauth.gettoken.api: http://baidu.com/
+faceauth:
+    gettoken:
+        api: http://baidu.com/
